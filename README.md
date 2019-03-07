@@ -1,2 +1,0 @@
-# FlappyBirdMiniGame
-基于微信小游戏的简易版FlappyBird
